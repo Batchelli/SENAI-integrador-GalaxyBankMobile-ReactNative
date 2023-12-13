@@ -1,0 +1,153 @@
+.bg {
+    background-color: #0B0531;
+    border: 2px solid #8818C0;
+    width: 98%;
+    height: 99%;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 100%;
+}
+
+.header{
+    margin-top: 30px;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.elipse {
+    padding: 10px;
+    border-radius: 100px;
+    background-color: #0B0531;
+    border: 2px solid #8818C0;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+}
+
+.text {
+    color: white;
+    font-size: 16px;
+}
+
+.title {
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.textArea {
+    display: flex;
+    width: 90%;
+    margin-top: 12%;
+}
+
+.enviar {
+    margin-top: 12%;
+    display: flex;
+    width: 90%;
+}
+
+.elipses {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+.nameElipse {
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    color: white;
+    font-size: 14px;
+}
+
+.textR {
+    color: white;
+    font-size: 14px;
+    width: 80%;
+}
+
+.titleR {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.textAreas {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    width: 90%;
+    margin-top: 12%;
+}
+
+.textBox{
+    width: 100%;
+    padding-left: 10%;
+}
+
+.caixa{
+    border: 1px solid #8818C0;
+    width: 85%;
+    height: 50px;
+    margin: 2%;
+    padding-left: 12px;
+    border-radius: 10px;
+    color: white;
+}
+
+.inps{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.title{
+    color: white;
+    width: 100%;
+    font-size: 50px;
+    font-weight:bold ;
+    padding-top: 40%;
+}
+
+.text{
+    color: white;
+    font-size: 25px;
+}
+
+.btn{
+    border: 1px solid #8818C0;
+    width: 45%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    margin: 2%;
+    border-radius: 15px;
+}
+
+.btns{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

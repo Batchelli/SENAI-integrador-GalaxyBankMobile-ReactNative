@@ -1,0 +1,108 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.bg {
+    background-color: #0B0531;
+    border: 2px solid #8818C0 ;
+    width: 98%;
+    height: 175px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-direction: row;
+}
+
+.bg2 {
+    background-color: #0B0531;
+    border: 2px solid #8818C0 ;
+    width: 98%;
+    height: 125px;
+    border-radius: 30px;
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+    padding-left: 50px;
+}
+
+.bg3 {
+    background-color: #0B0531;
+    border: 2px solid #8818C0 ;
+    width: 98%;
+    height: 450px;
+    border-radius: 30px;
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+    padding: 15px;
+}
+
+
+.containerElipse{
+    width: 98%;
+    justify-content: center;
+    align-items: center;
+}
+
+.scroll{
+    padding: 0;
+    margin: 0;
+}
+
+.elipse {
+    padding: 10px;
+    margin: 0px 7.5px 0px 7.5px;
+    border-radius: 100px;
+    background-color: #0B0531;
+    border: 2px solid #8818C0 ;
+}
+
+.icon{
+   width: 50px;
+   height: 50px;
+}
+
+
+.name{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.pic{
+    width: 85px;
+    height: 85px;
+    border-radius: 50px;
+    /* border: 2px solid #8818C0; */
+    margin: 25px;
+}
+
+.saldoN{
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.saldo{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.extratoN{
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.extrato{
+    color: white;
+    font-size: 16px;
+}
